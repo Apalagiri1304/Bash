@@ -1,0 +1,6 @@
+What is Bash?
+
+Answer: Bash, short for "Bourne Again Shell," is a Unix shell and command language interpreter that provides a command-line interface for interacting with the operating system. It is the default shell on most Linux distributions and macOS.
+How do you declare a variable in Bash?
+
+Answer: Variables in Bash are declared by assigning a value to them, without specifying a data type. For example: my_var="Hello, World"
