@@ -1,1 +1,17 @@
 
+ls Command
+cd Command
+rm Command
+mv Command
+cp Command
+mkdir Command
+pwd Command
+touch Command
+cat Command
+less Command
+more Command
+grep Command
+curl Command
+which Command
+top Command
+history Command
